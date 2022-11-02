@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">CameloStore</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_notification">Notification</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+
+    <string name="hint_password">Your password</string>
+    <string name="txt_welcome">Welcome</string>
+    <string name="txt_nameprod">Product name</string>
+    <string name="txt_precprod">Product Price</string>
+    <string name="text_btncliente">Customer</string>
+    <string name="text_btnadmon">Admin</string>
+    <string name="user">Carlos Mario</string>
+    <string name="txt_introduction">Introduction</string>
+    <string name="txt_carreta">Introductionxxx</string>
+    <string name="txt_welcomeuser">Do you whis entry?</string>
+
+    <string name="txt_buscar">Search</string>
+    <string name="txt_ayuda">Help</string>
+    <string name="txt_contactar">Contact</string>
+    <string name="txt_enviar">Send</string>
+    <string name="txt_miCuenta">Profile</string>
+    <string name="txt_Promociones">On Sale</string>
+
+    <string name="txt_ConfCatalogo">Config Product Catalog</string>
+    <string name="txt_VerCatalogo">Show Catalog</string>
+    <string name="txt_ConfigPromociones">Config Sales</string>
+    <string name="txt_Version">Version</string>
+
+</resources>
